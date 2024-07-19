@@ -9,7 +9,11 @@
 <li>JavaScript (including DOM manipulation and event listeners)</li>
 <li>APIs (for weather dashboard project)</li>
 </ul>
+<h2>Badges</h2>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
 </div>
+  
 <div class="getting-started">
 <h2>Getting Started</h2>
 <p>To get started with these projects, simply clone the repository and open the project folders in your preferred code editor. Make sure to install any required dependencies using npm or yarn.</p>

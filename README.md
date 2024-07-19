@@ -14,10 +14,6 @@
 <h2>Getting Started</h2>
 <p>To get started with these projects, simply clone the repository and open the project folders in your preferred code editor. Make sure to install any required dependencies using npm or yarn.</p>
 </div>
-<div class="license">
-<h2>License</h2>
-<p>This repository is licensed under the MIT License. See LICENSE for more information.</p>
-</div>
 <div class="contact">
 <h2>Contact</h2>
 <p>If you have any questions or feedback, feel free to reach out to me on:</p>

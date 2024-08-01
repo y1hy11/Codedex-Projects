@@ -1,4 +1,4 @@
-let apiKey = "1ab36ff8b3ca6cbbc5a3b7bd9bb99789"; 
+let apiKey = "";  //Enter Weather Apikey
 
 function fetchWeather() {
   let searchInput = document.getElementById("search").value;

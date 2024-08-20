@@ -19,10 +19,10 @@ const QuoteGenerator = () => {
   };
 
   return (
-    <div>
+    <div className="quote-generator">
       <h1>Random Quote Generator</h1>
       <button onClick={generateQuote}>Generate Quote</button>
-      <p>{currentQuote}</p>
+      <p className="quote">{currentQuote}</p>
     </div>
   );
 };

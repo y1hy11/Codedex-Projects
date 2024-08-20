@@ -6,16 +6,20 @@ const QuoteGenerator = () => {
     "The best way to predict the future is to create it. - Peter Drucker",
     "Let us pick up our books and our pens, they are the most powerful weapons. - Malala Yousafzai",
     "The only way to do great work is to love what you do. - Steve Jobs",
-    "It always seems impossible until it’s done. - Nelson Mandela",
+    "It always seems impossible until it's done. - Nelson Mandela",
     "I am not afraid... I was born to do this. - Joan of Arc",
-    "Believe you can and you’re halfway there. - Theodore Roosevelt"
+    "Believe you can and you're halfway there. - Theodore Roosevelt"
   ];
 
-  const [currentQuote, setCurrentQuote] = useState('');
+  const getRandomQuote = () => {
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    return quotes[randomIndex];
+  };
+
+  const [currentQuote, setCurrentQuote] = useState(getRandomQuote());
 
   const generateQuote = () => {
-    const randomIndex = Math.floor(Math.random() * quotes.length);
-    setCurrentQuote(quotes[randomIndex]);
+    setCurrentQuote(getRandomQuote());
   };
 
   return (

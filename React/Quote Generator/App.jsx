@@ -1,5 +1,5 @@
 import React from 'react';
-import QuoteGenerator from './QuoteGenerator';
+import QuoteGenerator from './Quote Generator';
 import './index.css';
 
 function App() {

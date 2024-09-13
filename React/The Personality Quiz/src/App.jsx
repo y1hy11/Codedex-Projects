@@ -39,3 +39,11 @@ function determineElement(answers) {
   });
   return Object.keys(counts).reduce((a, b) => counts[a] > counts[b] ? a : b);
 }
+
+useEffect(() => {
+  if (currentQuestionIndex === questions.length) {
+    const selectedElement = determineElement(answers);
+    setElement(selectedElement);
+    fetchArtwork(keywords[selectedElement]);
+  }
+}, [currentQuestionIndex]);

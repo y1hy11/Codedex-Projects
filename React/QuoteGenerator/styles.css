@@ -1,0 +1,42 @@
+/* Center the container and add margin */
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Style the button */
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Change button color on hover */
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Style the quote */
+.quote {
+  font-size: 30px;
+  font-style: italic;
+  color: #333;
+  border: none;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  display: flex;
+  max-width: 80%;
+  justify-content: space-evenly;
+  margin: 100px 100px 0 100px;
+}
+
+footer p {
+  margin: 100px 100px 0px 100px;
+  text-align: center;
+}

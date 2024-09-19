@@ -36,6 +36,10 @@ h1 {
   line-height: 1.1;
 }
 
+h2 {
+  text-align: center;
+}
+
 nav {
   text-align: center;
 }

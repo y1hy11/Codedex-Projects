@@ -96,3 +96,5 @@ function App() {
 }
 
 export default App;
+
+/* Thank you Codedéx for your excellent work on this project! */

@@ -1,5 +1,5 @@
 <body>
-<h1>Codédex Finals Projects: HTML, CSS, and JavaScript</h1>
+<h1>Codédex Finals Projects: HTML, CSS, JavaScript an React</h1>
 <p>Welcome to my Codédex Finals Projects repository, where I showcase my skills in HTML, CSS, and JavaScript. This repository contains a collection of projects that demonstrate my proficiency in front-end development using these three fundamental technologies.</p>
 <div class="technologies">
 <h2>Technologies Used</h2>

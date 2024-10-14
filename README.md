@@ -13,6 +13,7 @@
 <h2><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" height="30px" width="30px"></img>Badges</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black" alt="JS Badge">
 <img src="https://img.shields.io/badge/React-188bff.svg?style=for-the-badge&logo=React&logoColor=white" alt="React Badge">
 </div>
   

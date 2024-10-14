@@ -1,5 +1,5 @@
 <body>
-<h1><img src="https://www.codedex.io/images/coin-cropped.png" height="30px" width="30px"></img>Codédex Finals Projects: HTML, CSS, JavaScript and React</h1>
+<h1><img src="https://www.codedex.io/images/coin-cropped.png" height="30px" width="30px"></img>Codédex Finals Projects: HTML, CSS, JavaScript and React<img src="https://www.codedex.io/images/coin-cropped.png" height="30px" width="30px"></img></h1>
 <p>Welcome to my Codédex Finals Projects repository, where I showcase my skills in HTML, CSS, and JavaScript. This repository contains a collection of projects that demonstrate my proficiency in front-end development using these three fundamental technologies.</p>
 <div class="technologies">
 <h2><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" height="30px" width="30px"></img>Technologies Used</h2>
@@ -8,6 +8,7 @@
 <li>CSS3 (including CSS Grid and Flexbox)</li>
 <li>JavaScript (including DOM manipulation and event listeners)</li>
 <li>APIs (for weather dashboard project)</li>
+<li>React</li>
 </ul>
 <h2><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" height="30px" width="30px"></img>Badges</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">

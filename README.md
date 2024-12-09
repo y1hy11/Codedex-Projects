@@ -25,6 +25,6 @@
 <h2><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" height="30px" width="30px"></img>Contact</h2>
 <p>If you have any questions or feedback, feel free to reach out to me on:</p>
 <a href="https://www.linkedin.com/in/yahya-elalaoui/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/y1hy11/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://x.com/y1hy1_1" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
 </div>
 </body>

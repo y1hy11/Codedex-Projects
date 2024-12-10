@@ -7,5 +7,6 @@ int main() {
     double pi2 = 3.14159265359; // it's a double
     bool honor = true; // it's a boolean
     std::string name = "Yahya" << std::endl; // it's a string 
+    std::cout << /* to print or execute*/;
     return 0;
 }

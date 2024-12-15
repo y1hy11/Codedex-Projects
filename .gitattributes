@@ -1,3 +1,6 @@
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+
 *.cpp linguist-language=C++
 *.html linguist-language=HTML
 *.css linguist-language=CSS

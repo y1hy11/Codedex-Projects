@@ -1,0 +1,9 @@
+*.cpp linguist-language=C++
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+*.jsx linguist-language=React
+*.eslint linguist-language=JavaScript
+*.gitignore linguist-language=Git
+*.json linguist-language=JSON
+*.md linguist-language=Markdown

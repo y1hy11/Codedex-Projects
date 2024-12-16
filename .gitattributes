@@ -1,11 +1,10 @@
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-
 *.cpp linguist-language=C++
 *.html linguist-language=HTML
 *.css linguist-language=CSS
 *.js linguist-language=JavaScript
 *.jsx linguist-language=React
+*.jsx linguist-detectable=true
+*.js linguist-detectable=true
 *.eslint linguist-language=JavaScript
 *.gitignore linguist-language=Git
 *.json linguist-language=JSON

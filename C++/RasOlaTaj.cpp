@@ -9,10 +9,10 @@ int main() {
   int num = std::rand() % 2;  // Generates a random number that's either 0 or 1
 
   if (num > 0.5) { 
-    std::cout << "Ras\n"; //Head
+    std::cout << "Ras\n"; //It Means Head
   }
   else { 
-    std::cout << "Taj\n"; //Tail
+    std::cout << "Taj\n"; //It Means Tail
   }
   return 0;
 }

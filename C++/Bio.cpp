@@ -1,9 +1,9 @@
+//this code is my bio in C++ language
+
 #include <iostream>
 #include <stdio.h>
 
 int main() {
-    // Write code here
-
     std::string name = "Yahya 👋";
     std::string country = "Morocco 🇲🇦";
     std::string technologie = "Frontend";

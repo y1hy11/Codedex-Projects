@@ -1,7 +1,7 @@
 // RasOlaTaj Means Heads OR Tails in english
 
 #include <iostream> // For std::cout
-#include <cstdlib> // For std::rand() and std::srand()
+#include <cstdlib> // For std::rand()
 
 int main() {
   srand(time(NULL));

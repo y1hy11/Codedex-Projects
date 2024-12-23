@@ -1,3 +1,5 @@
+//this code is for changing the celsius to fahrenheit in c++
+
 #include <iostream>
 #include <stdio.h>
 

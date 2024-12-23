@@ -14,4 +14,5 @@ int main() {
   else { 
     std::cout << "Taj\n"; //Tail
   }
+  return 0;
 }

@@ -1,18 +1,21 @@
 // RasOlaTaj Means Heads OR Tails in english
 
 #include <iostream> // For std::cout
-#include <cstdlib> // For std::rand()
+#include <cstdlib>  // For std::rand()
 
-int main() {
+int main()
+{
   srand(time(NULL));
 
-  int num = std::rand() % 2;  // Generates a random number that's either 0 or 1
+  int num = std::rand() % 2; // Generates a random number that's either 0 or 1
 
-  if (num > 0.5) { 
-    std::cout << "Ras\n"; //It Means Head
+  if (num > 0.5)
+  {
+    std::cout << "Ras\n"; // It Means Head
   }
-  else { 
-    std::cout << "Taj\n"; //It Means Tail
+  else
+  {
+    std::cout << "Taj\n"; // It Means Tail
   }
   return 0;
 }

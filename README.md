@@ -1,5 +1,5 @@
 <body>
-<h1><img src="https://www.codedex.io/images/coin-cropped.png" height="30px" width="30px"></img>Codédex Projects: HTML, CSS, JavaScript and React<img src="https://www.codedex.io/images/coin-cropped.png" height="30px" width="30px"></img></h1>
+<h1><img src="https://www.codedex.io/images/coin-cropped.png" height="30px" width="30px"></img> Codédex Projects: HTML, CSS, JavaScript, React and C++ <img src="https://www.codedex.io/images/coin-cropped.png" height="30px" width="30px"></img></h1>
 <p>Welcome to my Codédex Finals Projects repository, where I showcase my skills in HTML, CSS, JavaScript, React and C++. This repository contains a collection of projects that demonstrate my proficiency in front-end development using these  fundamental technologies.</p>
 <div class="technologies">
 <h2><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" height="30px" width="30px"></img>Technologies Used</h2>

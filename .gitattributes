@@ -5,6 +5,10 @@
 *.jsx linguist-language=React
 *.jsx linguist-detectable=true
 *.js linguist-detectable=true
+*.cpp linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
 *.eslint linguist-language=JavaScript
 *.gitignore linguist-language=Git
 *.json linguist-language=JSON

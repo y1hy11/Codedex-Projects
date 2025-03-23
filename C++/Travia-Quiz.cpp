@@ -3,7 +3,8 @@
 int main()
 {
     int country;
-    std::cout << "Q1) What is the name of the World's Biggest Country? 💧\n\n";
+    
+    std::cout << "Q1) What is the name of the World's Biggest Country? 🌍\n\n";
     std::cout << "1) Usa\n";
     std::cout << "2) China\n";
     std::cout << "3) Canada\n";
@@ -17,6 +18,6 @@ int main()
     }
     else
     {
-        std::cout << "Wrong!!\n";
+        std::cout << "Wrong Try again!!\n";
     }
 }

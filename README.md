@@ -10,6 +10,7 @@
 <li>APIs (for weather dashboard project)</li>
 <li>React</li>
 <li>C++</li>
+<li>Java</li>
 </ul>
 <h2><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" height="30px" width="30px"></img>Badges</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">

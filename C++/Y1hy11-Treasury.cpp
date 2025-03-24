@@ -1,10 +1,12 @@
+// This Code Shows how the if loop works in C++
+
 #include <iostream>
 
 int main()
 {
-    int pin;
+    int pin; 
 
-    std::cout << "Y1hy11 Treasury\n\n"; // its means safe also
+    std::cout << "Y1hy11 Treasury\n\n";
 
     std::cout << "Enter your PIN: ";
     std::cin >> pin;
